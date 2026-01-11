@@ -60,7 +60,7 @@ export function Navbar() {
                         <img
                             src="/logo.png"
                             alt="MycoFresh"
-                            className="h-20 w-auto object-contain mix-blend-multiply"
+                            className="h-14 md:h-20 w-auto object-contain mix-blend-multiply"
                         />
                     </a>
 
